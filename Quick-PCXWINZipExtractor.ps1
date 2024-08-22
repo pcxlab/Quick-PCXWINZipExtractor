@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-The Quick-PCXWINZipExtractor script automates the extraction of ZIP files in the current directory. 
+The Quick-PCXWINZipExtractor.ps1 script automates the extraction of ZIP files in the current directory. 
 It efficiently handles nested ZIP files by recursively processing them if they contain only a single 
 ZIP file inside. The script exits when multiple files or folders are detected within a ZIP, ensuring 
 that the directory remains organized and free of redundant ZIP archives.
