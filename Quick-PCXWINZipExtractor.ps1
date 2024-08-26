@@ -52,7 +52,7 @@ function Process-Zip {
     }
 }
 
-# Set the current directory as the directory where your zip files are located
+# Set the current directory as the directory where your zip files are located.
 $directory = Get-Location
 
 if (Test-Path -Path $directory -PathType Container) {
