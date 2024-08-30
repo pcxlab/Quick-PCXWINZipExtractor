@@ -22,7 +22,7 @@ This example runs the script in the current directory, extracting all ZIP files 
 .NOTES
 Author: HarshBharath
 Date: 22-08-2024
-Version: 5.35
+Version: 5.35 
 #>
 
 
